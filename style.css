@@ -1,0 +1,22 @@
+* {
+    background-color: sienna;
+    text-align: center;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+
+.nav{
+    align-items: center;
+}
+
+a:link {
+    color: black;
+  }
+
+  a:visited {
+    color: black;
+  }
+
+  a:active {
+    color: white;
+  }
